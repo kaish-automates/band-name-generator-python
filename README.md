@@ -1,3 +1,4 @@
 This band name generator is a beginner and very basic project which includes the use of imput and print function
 It asks you for your city name and then pet name and when you give your imputs, both are concatenated to generate a simple name.
 This is the very first project i made when i started with python coding. It is clear, easy, beginner friendly and and the first brick to building my future automation wall.
+To run this project, copy the code from main file and run it into your respective python terminals.
